@@ -1,0 +1,580 @@
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.exe
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.deps.json
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.runtimeconfig.json
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.runtimeconfig.dev.json
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.pdb
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.csprojAssemblyReference.cache
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.AssemblyInfoInputs.cache
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.AssemblyInfo.cs
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.RazorTargetAssemblyInfo.cache
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/staticwebassets/DevCollApi.StaticWebAssets.Manifest.cache
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/staticwebassets/DevCollApi.StaticWebAssets.xml
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.dll
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.pdb
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.csproj.CopyComplete
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Oliver/source/repos/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Oliver/source/repos/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.MvcApplicationPartsAssemblyInfo.cache
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/appsettings.json
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.deps.json
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.runtimeconfig.json
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.runtimeconfig.dev.json
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/DevCollApi.pdb
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.csprojAssemblyReference.cache
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/staticwebassets/DevCollApi.StaticWebAssets.Manifest.cache
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/staticwebassets/DevCollApi.StaticWebAssets.xml
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.MvcApplicationPartsAssemblyInfo.cache
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.AssemblyInfoInputs.cache
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.AssemblyInfo.cs
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.RazorTargetAssemblyInfo.cache
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.csproj.CopyComplete
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.dll
+/home/oliver/Dokumente/Git-Repos/dev-collector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.pdb
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.exe
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.deps.json
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.runtimeconfig.json
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.runtimeconfig.dev.json
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.pdb
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.AssemblyInfoInputs.cache
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.AssemblyInfo.cs
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.RazorTargetAssemblyInfo.cache
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.csproj.CopyComplete
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\staticwebassets\DevCollApi.StaticWebAssets.Manifest.cache
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\staticwebassets\DevCollApi.StaticWebAssets.xml
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.dll
+C:\Users\Oliver\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.pdb
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.exe
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.deps.json
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.runtimeconfig.json
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.runtimeconfig.dev.json
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\DevCollApi.pdb
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.csprojAssemblyReference.cache
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.csproj.CoreCompileInputs.cache
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.AssemblyInfoInputs.cache
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.AssemblyInfo.cs
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.RazorTargetAssemblyInfo.cache
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.csproj.CopyComplete
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\staticwebassets\DevCollApi.StaticWebAssets.Manifest.cache
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\staticwebassets\DevCollApi.StaticWebAssets.xml
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.dll
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.pdb
+C:\Users\Win10 Home x64\Documents\Git-Repos\dev-collector\DevCollApi\obj\Debug\netcoreapp3.1\DevCollApi.genruntimeconfig.cache
