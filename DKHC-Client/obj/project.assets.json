@@ -8,31 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Oliver\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/oliver/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oliver\\Documents\\Git-Repos\\DevKnowHowCollector\\DKHC-Client\\DKHC-Client.csproj",
+      "projectUniqueName": "/home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DKHC-Client/DKHC-Client.csproj",
       "projectName": "DKHC-Client",
-      "projectPath": "C:\\Users\\Oliver\\Documents\\Git-Repos\\DevKnowHowCollector\\DKHC-Client\\DKHC-Client.csproj",
-      "packagesPath": "C:\\Users\\Oliver\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oliver\\Documents\\Git-Repos\\DevKnowHowCollector\\DKHC-Client\\obj\\",
+      "projectPath": "/home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DKHC-Client/DKHC-Client.csproj",
+      "packagesPath": "/home/oliver/.nuget/packages/",
+      "outputPath": "/home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DKHC-Client/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Oliver\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/oliver/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
       }
     }
   }
