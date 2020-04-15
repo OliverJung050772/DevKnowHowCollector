@@ -1,4 +1,7 @@
 @page "/register"
+@using DKHC_Client.Data
+@using DKHC_Client.Models
+@inject DevCollApiService ApiService
 
 <h1>Register as new user</h1>
 
@@ -7,19 +10,109 @@
 
 <div class="login-box">
     <label for="inputEmail">email-adress</label>
-    <input type="email" class="form-control" id="inputEmail" placeholder="email-adress">
+    <input type="email" class="form-control" id="inputEmail" placeholder="email-adress" 
+        value="@eMail"
+        @onchange="@((ChangeEventArgs e) => {
+            eMail = e.Value.ToString();
+            FormIsValid();
+        })"
+    >
     <br>
     <label for="inputFirstName">first name</label>
-    <input type="text" class="form-control" id="inputFirstName" placeholder="first name">
+    <input type="text" class="form-control" id="inputFirstName" placeholder="first name" 
+        value="@firstName"
+        @onchange="@((ChangeEventArgs e) => {
+            firstName = e.Value.ToString();
+            FormIsValid();
+        })"      
+    >
     <br>
     <label for="inputLastName">last name</label>
-    <input type="text" class="form-control" id="inputLastName" placeholder="last name">
+    <input type="text" class="form-control" id="inputLastName" placeholder="last name" 
+        value="@lastName"
+        @onchange="@((ChangeEventArgs e) => {
+            lastName = e.Value.ToString();
+            FormIsValid();
+        })"      
+    >
     <br>
     <label for="inputPassword">password</label>
-    <input type="password" class="form-control" id="inputPassword" placeholder="password">
+    <input type="password" class="form-control" id="inputPassword" placeholder="password" 
+        value="@passWord"
+        @onchange="@((ChangeEventArgs e) => {
+            passWord = e.Value.ToString();
+            FormIsValid();
+        })"     
+    >
     <br>
     <label for="inputPassword2">repeat password</label>
-    <input type="password" class="form-control" id="inputPassword2" placeholder="repeat password">
+    <input type="password" class="form-control" id="inputPassword2" placeholder="repeat password"
+        value="@repeatedPassWord"
+        @onchange="@((ChangeEventArgs e) => {
+            repeatedPassWord = e.Value.ToString();
+            FormIsValid();
+        })"       
+    >
     <br>
-    <button type="submit" class="btn btn-primary">Register Now</button>
+    @if (!isValid)
+    {
+        <p class="error-text">@errorMessage</p>
+    }
+    @if (isValid)
+    {
+        <button @onclick="RegisterButtonClicked" class="btn btn-primary">Register Now</button>
+    }
 </div>
+
+@code {
+
+    private string eMail = string.Empty;
+    private string firstName = string.Empty;
+    private string lastName = string.Empty;
+    private string passWord = string.Empty;
+    private string repeatedPassWord = string.Empty;
+
+    private bool isValid = false;
+    private string errorMessage = string.Empty;
+
+    private void RegisterButtonClicked()
+    {
+        if (FormIsValid())
+        {
+            Console.WriteLine("Login successful!");
+            var allMembers = ApiService.GetAllMembers();
+            foreach (var item in allMembers)
+            {
+                Console.WriteLine(item.firstName + ", " + item.lastName);
+            }
+        }
+    }
+
+    private bool FormIsValid()
+    {
+        if (eMail.Count() < 4 || !eMail.Contains("@"))
+        {
+            errorMessage="e-mail address to short or false!";
+            isValid = false;
+            return false;
+        }
+        else if (firstName.Count() < 2 || lastName.Count() < 2)
+        {
+            errorMessage="first-/last- name to short!";
+            isValid = false;
+            return false; 
+        }      
+        else if (passWord != repeatedPassWord || passWord.Count() <5 || repeatedPassWord.Count() <5)
+        {
+            errorMessage ="password(s) different or to short!";
+            isValid = false;
+            return false;
+        }            
+        else 
+        {
+            isValid = true;
+            return true;
+        }
+    }
+
+}
