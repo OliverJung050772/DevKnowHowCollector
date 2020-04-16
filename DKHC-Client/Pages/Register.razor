@@ -75,16 +75,13 @@
     private bool isValid = false;
     private string errorMessage = string.Empty;
 
-    private void RegisterButtonClicked()
+    private async void RegisterButtonClicked()
     {
         if (FormIsValid())
         {
             Console.WriteLine("Login successful!");
-            var allMembers = ApiService.GetAllMembers();
-            foreach (var item in allMembers)
-            {
-                Console.WriteLine(item.firstName + ", " + item.lastName);
-            }
+            var allMembers = await ApiService.GetAllMembers();
+            Console.WriteLine("Result:\n" + allMembers.ToString());
         }
     }
 

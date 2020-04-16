@@ -9,32 +9,31 @@ namespace DKHC_Client.Data
 {
     public class DevCollApiService
     {
-        private readonly IHttpClientFactory _clientFactory;
+        private readonly HttpClient _client;
         private IEnumerable<Member> _memberList;
 
-        public DevCollApiService(IHttpClientFactory clientFactory)
+        public DevCollApiService()
         {
-            this._clientFactory = clientFactory;
-            _memberList = Task.FromResult<IEnumerable<Member>>(GetAllMembers());
+            HttpClientHandler clientHandler = new HttpClientHandler();
+            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
+
+            _client = new HttpClient(clientHandler);
         }
 
-        public async Task<IEnumerable<Member>> GetAllMembers()
+        public async Task<string> GetAllMembers()
         {
-            var request = new HttpRequestMessage(HttpMethod.Get,
-            "https://localhost:5101/api/Members");
-            var client = _clientFactory.CreateClient();
-            var response = await client.SendAsync(request);
-
-            if (response.IsSuccessStatusCode)
+            try
             {
-                using var responseStream = await response.Content.ReadAsStreamAsync();
-                var members = await JsonSerializer.DeserializeAsync
-                    <IEnumerable<Member>>(responseStream);
-                return members;
+                Console.WriteLine("Started http-request...");
+                HttpResponseMessage response = await _client.GetAsync("https://localhost:5101/api/Members");
+                response.EnsureSuccessStatusCode();
+                Console.WriteLine("Finished http-request!");
+                return await response.Content.ReadAsStringAsync();
             }
-            else
+            catch(Exception exp)
             {
-                return Array.Empty<Member>();
+                Console.WriteLine("ERROR: http-request failed!\n" + exp.Message);
+                return exp.Message;
             }
         }
     }
