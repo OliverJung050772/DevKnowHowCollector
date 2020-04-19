@@ -3,6 +3,8 @@ using System.Linq;
 using System.Net.Http;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Text.Json;
+using Newtonsoft.Json;
 using DKHC_Client.Models;
 
 namespace DKHC_Client.Data
@@ -20,7 +22,7 @@ namespace DKHC_Client.Data
             _client = new HttpClient(clientHandler);
         }
 
-        public async Task<string> GetAllMembers()
+        public async Task<IEnumerable<Member>> GetAllMembers()
         {
             try
             {
@@ -28,12 +30,15 @@ namespace DKHC_Client.Data
                 HttpResponseMessage response = await _client.GetAsync("https://localhost:5101/api/Members");
                 response.EnsureSuccessStatusCode();
                 Console.WriteLine("Finished http-request!");
-                return await response.Content.ReadAsStringAsync();
+                var jsonString = await response.Content.ReadAsStringAsync();
+                IEnumerable<Member> memberList = 
+                    JsonConvert.DeserializeObject<IEnumerable<Member>>(jsonString);
+                return memberList;
             }
             catch(Exception exp)
             {
                 Console.WriteLine("ERROR: http-request failed!\n" + exp.Message);
-                return exp.Message;
+                return null;
             }
         }
     }

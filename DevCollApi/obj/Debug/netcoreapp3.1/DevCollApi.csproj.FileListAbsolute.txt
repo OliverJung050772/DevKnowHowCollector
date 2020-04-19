@@ -725,3 +725,5 @@ C:/Users/Win10 Home x64/Documents/Git-Repos/dev-collector/DevCollApi/obj/Debug/n
 /home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.csproj.CopyComplete
 /home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.dll
 /home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.pdb
+/home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.csproj.CoreCompileInputs.cache
+/home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DevCollApi/obj/Debug/netcoreapp3.1/DevCollApi.genruntimeconfig.cache

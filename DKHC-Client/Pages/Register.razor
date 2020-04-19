@@ -1,6 +1,7 @@
 @page "/register"
 @using DKHC_Client.Data
 @using DKHC_Client.Models
+@using System.Collections.Generic
 @inject DevCollApiService ApiService
 
 <h1>Register as new user</h1>
@@ -81,7 +82,11 @@
         {
             Console.WriteLine("Login successful!");
             var allMembers = await ApiService.GetAllMembers();
-            Console.WriteLine("Result:\n" + allMembers.ToString());
+            IList<Member> memberList = allMembers.ToList();
+            foreach(Member member in memberList)
+            {
+                Console.WriteLine(member.FirstName + ", " + member.LastName + " " + member.Email);
+            }
         }
     }
 

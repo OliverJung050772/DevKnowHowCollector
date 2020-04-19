@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sHCLiohMi1Z0YbQIA/eNTslIokdGGSfwj6mVsnaeYY0UBxhOFtTy47FchyBA7LxuKOuu+N6vkRyjtwdGhRT2sA==",
+  "dgSpecHash": "FeSL+1012/t8KyxNxKsOydyEb5sas5mh9MuZhvSJCV4xAXQvtwj4WXJr+zgOY7b06Yxbq6qIsiarDY13ZzqkFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oliver\\Documents\\Git-Repos\\DevKnowHowCollector\\DKHC-Client\\DKHC-Client.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/oliver/Dokumente/Git-Repos/DevKnowHowCollector/DKHC-Client/DKHC-Client.csproj",
+  "expectedPackageFiles": [
+    "/home/oliver/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
