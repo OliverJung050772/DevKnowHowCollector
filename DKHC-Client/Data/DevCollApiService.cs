@@ -1,5 +1,6 @@
 using System;
 using System.Linq;
+using System.Text;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -12,52 +13,61 @@ namespace DKHC_Client.Data
 {
     public class DevCollApiService
     {
-        private readonly HttpClient _client;
-        private IEnumerable<Member> _memberList;
-
         public DevCollApiService()
         {
-            HttpClientHandler clientHandler = new HttpClientHandler();
-            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
-
-            _client = new HttpClient(clientHandler);
         }
 
         public async Task<IEnumerable<Member>> GetAllMembersAsync()
         {
+            HttpClientHandler clientHandler = new HttpClientHandler();
+            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
             try
             {
-                Console.WriteLine("Started http-request...");
-                HttpResponseMessage response = await _client.GetAsync("https://localhost:5101/api/Members");
-                response.EnsureSuccessStatusCode();
-                Console.WriteLine("Finished http-request!");
-                var jsonString = await response.Content.ReadAsStringAsync();
-                IEnumerable<Member> memberList = 
-                    JsonConvert.DeserializeObject<IEnumerable<Member>>(jsonString);
+                Console.WriteLine("Started http-request(member-list)...");
+                IEnumerable<Member> memberList;
+                using (HttpClient httpClient = new HttpClient(clientHandler))
+                {
+                    using (HttpResponseMessage response = await httpClient.GetAsync("https://localhost:5101/api/Members"))
+                    {
+                        response.EnsureSuccessStatusCode();
+                        var jsonString = await response.Content.ReadAsStringAsync();
+                        memberList = JsonConvert.DeserializeObject<IEnumerable<Member>>(jsonString);
+                    }
+                }
+                Console.WriteLine("Finished http-request(member-list!)");
                 return memberList;
             }
             catch(Exception exp)
             {
-                Console.WriteLine("ERROR: http-request failed!\n" + exp.Message);
+                Console.WriteLine("ERROR: http-request(member-list) failed!\n" + exp.Message);
                 return null;
             }
         }
 
-        public async Task<Uri> SaveNewMemberAsync(Member member)
+        public async Task<Member> SaveNewMemberAsync(Member member)
         {
+            HttpClientHandler clientHandler = new HttpClientHandler();
+            clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
             try
             {
-                Console.WriteLine("Started http-post-request...");
-                var content = JsonConvert.SerializeObject(member);
-                HttpResponseMessage response = await 
-                    _client.PostAsync("https://localhost:5101/api/Members", new StringContent(content));
-                response.EnsureSuccessStatusCode();
-                Console.WriteLine("Finished http-post-request!");
-                return response.Headers.Location;
+                Console.WriteLine("Started http-post-request(add member)...");
+                Member registeredMember;
+                using (var httpClient = new HttpClient(clientHandler))
+                {
+                    StringContent content = new StringContent(JsonConvert.SerializeObject(member), 
+                        Encoding.UTF8, "application/json");
+                    using (var response = await httpClient.PostAsync("https://localhost:5101/api/Members", content))
+                    {
+                        string apiResponse = await response.Content.ReadAsStringAsync();
+                        registeredMember = JsonConvert.DeserializeObject<Member>(apiResponse);
+                    }    
+                }
+                Console.WriteLine("Finished http-post-request for new Member!");
+                return registeredMember;
             }
             catch(Exception exp)
             {
-                Console.WriteLine("ERROR: post-request failed!\n" + exp.Message);
+                Console.WriteLine("ERROR: post-request(add-member) failed!\n" + exp.Message);
                 return null;
             }
         }

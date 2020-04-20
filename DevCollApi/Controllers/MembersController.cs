@@ -2,7 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using System.Text.Json;
 using System.Linq;
+// using Newtonsoft.Json;
 using System.Threading.Tasks;
 
 namespace DevCollApi.Controllers
@@ -75,7 +77,7 @@ namespace DevCollApi.Controllers
         // POST: api/Members
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for
         // more details see https://aka.ms/RazorPagesCRUD.
-        [HttpPost]
+        [HttpPost]      
         public async Task<ActionResult<Member>> PostMember(Member member)
         {
             _context.Members.Add(member);
@@ -83,6 +85,19 @@ namespace DevCollApi.Controllers
 
             return CreatedAtAction("GetMember", new { id = member.MembId }, member);
         }
+    
+        /*
+        public async Task<ActionResult<Member>> PostMember([FromBody] string data)
+        {
+            // with Newtonsoft
+            // Member newMember = (Member)JsonConvert.DeserializeObject(data);
+            Member newMember = JsonSerializer.Deserialize<Member>(data);
+            _context.Members.Add(newMember);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction("GetMember", new { id = newMember.MembId }, newMember);
+        }
+        */
 
         // DELETE: api/Members/5
         [HttpDelete("{id}")]
