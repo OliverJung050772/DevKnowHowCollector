@@ -80,15 +80,37 @@
     {
         if (FormIsValid())
         {
+            Console.WriteLine("New registration requested...");
+            Member newMember = new Member();
+            newMember.FirstName = firstName;
+            newMember.LastName = lastName;
+            newMember.Email = eMail;
+            newMember.Password = passWord;
+            
+            if (ApiService.SaveNewMemberAsync(newMember) != null)
+            {
+                Console.WriteLine("Registered new member " + newMember.FirstName 
+                    + " " + newMember.LastName + " successfully!");
+            }
+            else
+            {
+                Console.WriteLine("ERROR: Registration failed!");
+            }              
+        }
+    }
+
+    /*
+       if (FormIsValid())
+        {
             Console.WriteLine("Login successful!");
-            var allMembers = await ApiService.GetAllMembers();
+            var allMembers = await ApiService.GetAllMembersAsync();
             IList<Member> memberList = allMembers.ToList();
             foreach(Member member in memberList)
             {
                 Console.WriteLine(member.FirstName + ", " + member.LastName + " " + member.Email);
             }
-        }
-    }
+        } 
+    */
 
     private bool FormIsValid()
     {
@@ -115,6 +137,11 @@
             isValid = true;
             return true;
         }
+    }
+
+    private async Task<bool> emailExistsAsync()
+    {
+        return false;
     }
 
 }
